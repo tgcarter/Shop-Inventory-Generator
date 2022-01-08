@@ -1,0 +1,6694 @@
+﻿[
+    {
+        "Name": "Arista, Wand of the Spire",
+        "Rarity": "Artifact",
+        "Type": "Wand",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Axe of the Dwarvish Lords",
+        "Rarity": "Artifact",
+        "Type": "Weapon",
+        "Attunement Required": true,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Baba Yaga’s Mortar and Pestle",
+        "Rarity": "Artifact",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Tasha's Cauldron of Everything"
+    },
+    {
+        "Name": "Book of Exalted Deeds",
+        "Rarity": "Artifact",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Book of Vile Darkness",
+        "Rarity": "Artifact",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Crook of Rao",
+        "Rarity": "Artifact",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Tasha's Cauldron of Everything"
+    },
+    {
+        "Name": "Demonomicon of Iggwilv",
+        "Rarity": "Artifact",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Tasha's Cauldron of Everything"
+    },
+    {
+        "Name": "Eye and Hand of Vecna",
+        "Rarity": "Artifact",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Galea of the Soulfire Phoenix",
+        "Rarity": "Artifact",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Ionbreaker, the Tempest's Reach",
+        "Rarity": "Artifact",
+        "Type": "Weapon",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Luba’s Tarokka of Souls",
+        "Rarity": "Artifact",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Tasha's Cauldron of Everything"
+    },
+    {
+        "Name": "Mighty Servant of Leuk-o",
+        "Rarity": "Artifact",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Tasha's Cauldron of Everything"
+    },
+    {
+        "Name": "Nimbus, First Staff of the Thunderbirds",
+        "Rarity": "Artifact",
+        "Type": "Staff",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Orb of Dragonkind",
+        "Rarity": "Artifact",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Precipit, the Formless",
+        "Rarity": "Artifact",
+        "Type": "Staff",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Sword of Kas",
+        "Rarity": "Artifact",
+        "Type": "Weapon",
+        "Attunement Required": true,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Tectonic Gauntlets",
+        "Rarity": "Artifact",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Teeth of Dahlver-Nar",
+        "Rarity": "Artifact",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Tasha's Cauldron of Everything"
+    },
+    {
+        "Name": "The Griffon's Saddlebag",
+        "Rarity": "Artifact",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Wand of Orcus",
+        "Rarity": "Artifact",
+        "Type": "Weapon",
+        "Attunement Required": true,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Armor of Gleaming",
+        "Rarity": "Common",
+        "Type": "Armor",
+        "Attunement Required": false,
+        "Source": "Xanathar's Guide To Everything"
+    },
+    {
+        "Name": "Bands of the Found and Lost",
+        "Rarity": "Common",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Bard-in-a-Box",
+        "Rarity": "Common",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Bath Potion",
+        "Rarity": "Common",
+        "Type": "Potion",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Bead of Nourishment",
+        "Rarity": "Common",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Xanathar's Guide To Everything"
+    },
+    {
+        "Name": "Bead of Refreshment",
+        "Rarity": "Common",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Xanathar's Guide To Everything"
+    },
+    {
+        "Name": "Bird of a Feather (Single Use)",
+        "Rarity": "Common",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Boots of False Tracks",
+        "Rarity": "Common",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Xanathar's Guide To Everything"
+    },
+    {
+        "Name": "Borbos's Joyous Wand of Color",
+        "Rarity": "Common",
+        "Type": "Wand",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Candle of the Deep",
+        "Rarity": "Common",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Xanathar's Guide To Everything"
+    },
+    {
+        "Name": "Cast-Off Armor",
+        "Rarity": "Common",
+        "Type": "Armor",
+        "Attunement Required": false,
+        "Source": "Xanathar's Guide To Everything"
+    },
+    {
+        "Name": "Catnip Amulet",
+        "Rarity": "Common",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Charlatan’s Die",
+        "Rarity": "Common",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Xanathar's Guide To Everything"
+    },
+    {
+        "Name": "Cleaning Cube",
+        "Rarity": "Common",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Cloak of Billowing",
+        "Rarity": "Common",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Xanathar's Guide To Everything"
+    },
+    {
+        "Name": "Cloak of Many Fashions",
+        "Rarity": "Common",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Xanathar's Guide To Everything"
+    },
+    {
+        "Name": "Clockwork Amulet",
+        "Rarity": "Common",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Xanathar's Guide To Everything"
+    },
+    {
+        "Name": "Clothes of Mending",
+        "Rarity": "Common",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Xanathar's Guide To Everything"
+    },
+    {
+        "Name": "Companion's Band",
+        "Rarity": "Common",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Container of Heat and Frost",
+        "Rarity": "Common",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Dark Shard Amulet",
+        "Rarity": "Common",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Xanathar's Guide To Everything"
+    },
+    {
+        "Name": "Djinn and Tonic",
+        "Rarity": "Common",
+        "Type": "Potion",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Doodle Ring",
+        "Rarity": "Common",
+        "Type": "Ring",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Dread Helm",
+        "Rarity": "Common",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Xanathar's Guide To Everything"
+    },
+    {
+        "Name": "Dress of Many Pockets",
+        "Rarity": "Common",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Dryadleaf",
+        "Rarity": "Common",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Ear Horn of Hearing",
+        "Rarity": "Common",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Xanathar's Guide To Everything"
+    },
+    {
+        "Name": "Enduring Spellbook",
+        "Rarity": "Common",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Xanathar's Guide To Everything"
+    },
+    {
+        "Name": "Ersatz Eye",
+        "Rarity": "Common",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Xanathar's Guide To Everything"
+    },
+    {
+        "Name": "Everlasting Sugarbomb",
+        "Rarity": "Common",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Fanfare Ammunition",
+        "Rarity": "Common",
+        "Type": "Weapon",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Firecracker Crystals",
+        "Rarity": "Common",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Forecaster's Cloak",
+        "Rarity": "Common",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Foxfire Charm",
+        "Rarity": "Common",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Freerunner's Armor",
+        "Rarity": "Common",
+        "Type": "Armor",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Grass Carpet",
+        "Rarity": "Common",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Gravity Goblet",
+        "Rarity": "Common",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Griffon Coinpouch",
+        "Rarity": "Common",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Hat of Vermin",
+        "Rarity": "Common",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Xanathar's Guide To Everything"
+    },
+    {
+        "Name": "Hat of Wizardry",
+        "Rarity": "Common",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Xanathar's Guide To Everything"
+    },
+    {
+        "Name": "Heart of the Sleeveless",
+        "Rarity": "Common",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Heward’s Handy Spice Pouch",
+        "Rarity": "Common",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Xanathar's Guide To Everything"
+    },
+    {
+        "Name": "Horn of Silent Alarm",
+        "Rarity": "Common",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Xanathar's Guide To Everything"
+    },
+    {
+        "Name": "Illuminator’s Tattoo",
+        "Rarity": "Common",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Tasha's Cauldron of Everything"
+    },
+    {
+        "Name": "Immovable Button",
+        "Rarity": "Common",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Instrument of Illusions",
+        "Rarity": "Common",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Xanathar's Guide To Everything"
+    },
+    {
+        "Name": "Instrument of Scribing",
+        "Rarity": "Common",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Xanathar's Guide To Everything"
+    },
+    {
+        "Name": "Leatherbeard",
+        "Rarity": "Common",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Lock of Trickery",
+        "Rarity": "Common",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Xanathar's Guide To Everything"
+    },
+    {
+        "Name": "Masquerade Tattoo",
+        "Rarity": "Common",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Tasha's Cauldron of Everything"
+    },
+    {
+        "Name": "Merry Berry",
+        "Rarity": "Common",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Moon-Touched Sword",
+        "Rarity": "Common",
+        "Type": "Weapon",
+        "Attunement Required": false,
+        "Source": "Xanathar's Guide To Everything"
+    },
+    {
+        "Name": "Mystery Key",
+        "Rarity": "Common",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Xanathar's Guide To Everything"
+    },
+    {
+        "Name": "Orator's Quill",
+        "Rarity": "Common",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Orb of Direction",
+        "Rarity": "Common",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Xanathar's Guide To Everything"
+    },
+    {
+        "Name": "Orb of Time",
+        "Rarity": "Common",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Xanathar's Guide To Everything"
+    },
+    {
+        "Name": "Pair of Tiny Violin Rings",
+        "Rarity": "Common",
+        "Type": "Ring",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Perfume of Bewitching",
+        "Rarity": "Common",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Xanathar's Guide To Everything"
+    },
+    {
+        "Name": "Permanent Parchment",
+        "Rarity": "Common",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Pipe of Smoke Monsters",
+        "Rarity": "Common",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Xanathar's Guide To Everything"
+    },
+    {
+        "Name": "Pole of Angling",
+        "Rarity": "Common",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Xanathar's Guide To Everything"
+    },
+    {
+        "Name": "Pole of Collapsing",
+        "Rarity": "Common",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Xanathar's Guide To Everything"
+    },
+    {
+        "Name": "Pomade of Ten Thousand Styles",
+        "Rarity": "Common",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Pot of Awakening",
+        "Rarity": "Common",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Xanathar's Guide To Everything"
+    },
+    {
+        "Name": "Potion of Climbing",
+        "Rarity": "Common",
+        "Type": "Potion",
+        "Attunement Required": false,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Potion of Healing",
+        "Rarity": "Common",
+        "Type": "Potion",
+        "Attunement Required": false,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Profane Mask",
+        "Rarity": "Common",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Prosthetic Limb",
+        "Rarity": "Common",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Tasha's Cauldron of Everything"
+    },
+    {
+        "Name": "Quicksilver Clay",
+        "Rarity": "Common",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Ring of Gestures",
+        "Rarity": "Common",
+        "Type": "Ring",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Ring of Roses",
+        "Rarity": "Common",
+        "Type": "Ring",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Ring of the Fowl Sentinel",
+        "Rarity": "Common",
+        "Type": "Ring",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Rope Caster",
+        "Rarity": "Common",
+        "Type": "Weapon",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Rope of Mending",
+        "Rarity": "Common",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Xanathar's Guide To Everything"
+    },
+    {
+        "Name": "Ruby of the War Mage",
+        "Rarity": "Common",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Xanathar's Guide To Everything"
+    },
+    {
+        "Name": "Seat Belt",
+        "Rarity": "Common",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Shapeshifter's Circlet",
+        "Rarity": "Common",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Shield of Expression",
+        "Rarity": "Common",
+        "Type": "Armor",
+        "Attunement Required": false,
+        "Source": "Xanathar's Guide To Everything"
+    },
+    {
+        "Name": "Singing Stein",
+        "Rarity": "Common",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Smash Potatoes",
+        "Rarity": "Common",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Smoldering Armor",
+        "Rarity": "Common",
+        "Type": "Armor",
+        "Attunement Required": false,
+        "Source": "Xanathar's Guide To Everything"
+    },
+    {
+        "Name": "Snugglebeast (1d6)",
+        "Rarity": "Common",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Cantrip Spell Scroll",
+        "Rarity": "Common",
+        "Type": "Scroll",
+        "Attunement Required": false,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "1st Level Spell Scroll",
+        "Rarity": "Common",
+        "Type": "Scroll",
+        "Attunement Required": false,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Spellwrought Tattoo (Cantrip)",
+        "Rarity": "Common",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Tasha's Cauldron of Everything"
+    },
+    {
+        "Name": "Spellwrought Tattoo (1st Level Spell)",
+        "Rarity": "Common",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Tasha's Cauldron of Everything"
+    },
+    {
+        "Name": "Staff of Adornment",
+        "Rarity": "Common",
+        "Type": "Staff",
+        "Attunement Required": false,
+        "Source": "Xanathar's Guide To Everything"
+    },
+    {
+        "Name": "Staff of Birdcalls",
+        "Rarity": "Common",
+        "Type": "Staff",
+        "Attunement Required": false,
+        "Source": "Xanathar's Guide To Everything"
+    },
+    {
+        "Name": "Staff of Flowers",
+        "Rarity": "Common",
+        "Type": "Staff",
+        "Attunement Required": false,
+        "Source": "Xanathar's Guide To Everything"
+    },
+    {
+        "Name": "Steps of the Trickster",
+        "Rarity": "Common",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Talking Doll",
+        "Rarity": "Common",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Xanathar's Guide To Everything"
+    },
+    {
+        "Name": "Tankard of Sobriety",
+        "Rarity": "Common",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Xanathar's Guide To Everything"
+    },
+    {
+        "Name": "Tea Weird",
+        "Rarity": "Common",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Tear of Gaia",
+        "Rarity": "Common",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Torpedo Arrow",
+        "Rarity": "Common",
+        "Type": "Weapon",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Tote of Tricky Treat Sugarbombs",
+        "Rarity": "Common",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Unbreakable Arrow",
+        "Rarity": "Common",
+        "Type": "Weapon",
+        "Attunement Required": false,
+        "Source": "Xanathar's Guide To Everything"
+    },
+    {
+        "Name": "Uorik the Conqueror's Juice Cup",
+        "Rarity": "Common",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Veteran’s Cane",
+        "Rarity": "Common",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Xanathar's Guide To Everything"
+    },
+    {
+        "Name": "Vox Helm",
+        "Rarity": "Common",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Walloping Ammunition",
+        "Rarity": "Common",
+        "Type": "Weapon",
+        "Attunement Required": false,
+        "Source": "Xanathar's Guide To Everything"
+    },
+    {
+        "Name": "Wand of Conducting",
+        "Rarity": "Common",
+        "Type": "Wand",
+        "Attunement Required": false,
+        "Source": "Xanathar's Guide To Everything"
+    },
+    {
+        "Name": "Wand of Pyrotechnics",
+        "Rarity": "Common",
+        "Type": "Wand",
+        "Attunement Required": false,
+        "Source": "Xanathar's Guide To Everything"
+    },
+    {
+        "Name": "Wand of Scowls",
+        "Rarity": "Common",
+        "Type": "Wand",
+        "Attunement Required": false,
+        "Source": "Xanathar's Guide To Everything"
+    },
+    {
+        "Name": "Wand of Smiles",
+        "Rarity": "Common",
+        "Type": "Wand",
+        "Attunement Required": false,
+        "Source": "Xanathar's Guide To Everything"
+    },
+    {
+        "Name": "Weapon of Showmanship",
+        "Rarity": "Common",
+        "Type": "Weapon",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Webgrip Rucksack",
+        "Rarity": "Common",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Amulet of the Devout (+3)",
+        "Rarity": "Legendary",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Tasha's Cauldron of Everything"
+    },
+    {
+        "Name": "Apparatus of Kwalish",
+        "Rarity": "Legendary",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Apparatus of the Crab",
+        "Rarity": "Legendary",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Arcane Grimoire (+3)",
+        "Rarity": "Legendary",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Tasha's Cauldron of Everything"
+    },
+    {
+        "Name": "Armor of Invulnerability",
+        "Rarity": "Legendary",
+        "Type": "Armor",
+        "Attunement Required": true,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Astral Sea Piercer",
+        "Rarity": "Legendary",
+        "Type": "Weapon",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Belt of Cloud Giant Strength",
+        "Rarity": "Legendary",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Belt of Storm Giant Strength",
+        "Rarity": "Legendary",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Blackrazor",
+        "Rarity": "Legendary",
+        "Type": "Weapon",
+        "Attunement Required": true,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Blood Fury Tattoo",
+        "Rarity": "Legendary",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Tasha's Cauldron of Everything"
+    },
+    {
+        "Name": "Bloodscryer Oculus",
+        "Rarity": "Legendary",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Chillspike",
+        "Rarity": "Legendary",
+        "Type": "Weapon",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Cloak of Invisibility",
+        "Rarity": "Legendary",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Crypt Keeper Glaive",
+        "Rarity": "Legendary",
+        "Type": "Weapon",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Crystal Ball of Mind Reading",
+        "Rarity": "Legendary",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Crystal Ball of Telepathy",
+        "Rarity": "Legendary",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Crystal Ball of True Seeing",
+        "Rarity": "Legendary",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Cubic Gate",
+        "Rarity": "Legendary",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Death's Shadow",
+        "Rarity": "Legendary",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Deck of Many Things",
+        "Rarity": "Legendary",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Defender",
+        "Rarity": "Legendary",
+        "Type": "Weapon",
+        "Attunement Required": true,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Dragon Tamer Lance",
+        "Rarity": "Legendary",
+        "Type": "Weapon",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Dragonkin Weapon (+3)",
+        "Rarity": "Legendary",
+        "Type": "Weapon",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Dragon-Kindled Edge",
+        "Rarity": "Legendary",
+        "Type": "Weapon",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Efreeti Chain",
+        "Rarity": "Legendary",
+        "Type": "Armor",
+        "Attunement Required": true,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Festerwood's Light",
+        "Rarity": "Legendary",
+        "Type": "Weapon",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Forgemaster's Might",
+        "Rarity": "Legendary",
+        "Type": "Weapon",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Glaive of the Revenant King",
+        "Rarity": "Legendary",
+        "Type": "Weapon",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Hammer of Thunderbolts",
+        "Rarity": "Legendary",
+        "Type": "Weapon",
+        "Attunement Required": true,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Holy Avenger",
+        "Rarity": "Legendary",
+        "Type": "Weapon",
+        "Attunement Required": true,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Instrument of the Bards (Ollamh Harp)",
+        "Rarity": "Legendary",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Ioun Stone of Greater Absorption",
+        "Rarity": "Legendary",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Ioun Stone of Mastery",
+        "Rarity": "Legendary",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Ioun Stone of Regeneration",
+        "Rarity": "Legendary",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Iron Flask",
+        "Rarity": "Legendary",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Iron Horn of Valhalla",
+        "Rarity": "Legendary",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Love's Embrace",
+        "Rarity": "Legendary",
+        "Type": "Weapon",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Luck Blade",
+        "Rarity": "Legendary",
+        "Type": "Weapon",
+        "Attunement Required": true,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Mastery Gem",
+        "Rarity": "Legendary",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Memento of the Shapeless",
+        "Rarity": "Legendary",
+        "Type": "Weapon",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Moonblade",
+        "Rarity": "Legendary",
+        "Type": "Weapon",
+        "Attunement Required": true,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Mourningsteel Half Plate",
+        "Rarity": "Legendary",
+        "Type": "Armor",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Pike of the Forgotten Legion",
+        "Rarity": "Legendary",
+        "Type": "Weapon",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Plate Armor of Etherealness",
+        "Rarity": "Legendary",
+        "Type": "Armor",
+        "Attunement Required": true,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Potion of Storm Giant Strength",
+        "Rarity": "Legendary",
+        "Type": "Potion",
+        "Attunement Required": false,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Purity Spear",
+        "Rarity": "Legendary",
+        "Type": "Weapon",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Puzzle Ring of Vitality, Life, and Power",
+        "Rarity": "Legendary",
+        "Type": "Ring",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Quiver of Elemental Chaos",
+        "Rarity": "Legendary",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Realmswarden Greataxe",
+        "Rarity": "Legendary",
+        "Type": "Weapon",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Red Claw's Regalia",
+        "Rarity": "Legendary",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Ring of Air Elemental Command",
+        "Rarity": "Legendary",
+        "Type": "Ring",
+        "Attunement Required": true,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Ring of Djinni Summoning",
+        "Rarity": "Legendary",
+        "Type": "Ring",
+        "Attunement Required": true,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Ring of Earth Elemental Command",
+        "Rarity": "Legendary",
+        "Type": "Ring",
+        "Attunement Required": true,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Ring of Elemental Command",
+        "Rarity": "Legendary",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Ring of Fire Elemental Command",
+        "Rarity": "Legendary",
+        "Type": "Ring",
+        "Attunement Required": true,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Ring of Invisibility",
+        "Rarity": "Legendary",
+        "Type": "Ring",
+        "Attunement Required": true,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Ring of Spell Turning",
+        "Rarity": "Legendary",
+        "Type": "Ring",
+        "Attunement Required": true,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Ring of Three Wishes",
+        "Rarity": "Legendary",
+        "Type": "Ring",
+        "Attunement Required": false,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Ring of Water Elemental Command",
+        "Rarity": "Legendary",
+        "Type": "Ring",
+        "Attunement Required": true,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Robe of the Archmagi",
+        "Rarity": "Legendary",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Rod of Lordly Might",
+        "Rarity": "Legendary",
+        "Type": "Rod",
+        "Attunement Required": true,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Rod of Resurrection",
+        "Rarity": "Legendary",
+        "Type": "Rod",
+        "Attunement Required": true,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Scarab of Protection",
+        "Rarity": "Legendary",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Seed of Rebirth",
+        "Rarity": "Legendary",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Sovereign Glue",
+        "Rarity": "Legendary",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "9th Level Spell Scroll",
+        "Rarity": "Legendary",
+        "Type": "Scroll",
+        "Attunement Required": false,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Spellfire Bow",
+        "Rarity": "Legendary",
+        "Type": "Weapon",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Sphere of Annihilation",
+        "Rarity": "Legendary",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Spire Seed",
+        "Rarity": "Legendary",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Spirit Cleaver",
+        "Rarity": "Legendary",
+        "Type": "Weapon",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Staff of the Magi",
+        "Rarity": "Legendary",
+        "Type": "Staff",
+        "Attunement Required": true,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Starmetal Shield",
+        "Rarity": "Legendary",
+        "Type": "Armor",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Starmetal Solar Axe",
+        "Rarity": "Legendary",
+        "Type": "Weapon",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Storm Thrower Harpoon",
+        "Rarity": "Legendary",
+        "Type": "Weapon",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Sword of Answering",
+        "Rarity": "Legendary",
+        "Type": "Weapon",
+        "Attunement Required": true,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Sword of the Spelldrinker",
+        "Rarity": "Legendary",
+        "Type": "Weapon",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Talisman of Pure Good",
+        "Rarity": "Legendary",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Talisman of the Sphere",
+        "Rarity": "Legendary",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Talisman of Ultimate Evil",
+        "Rarity": "Legendary",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Thornpiercer",
+        "Rarity": "Legendary",
+        "Type": "Weapon",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Tome of Lost Knowledge",
+        "Rarity": "Legendary",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Tome of the Stilled Tongue",
+        "Rarity": "Legendary",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Universal Solvent",
+        "Rarity": "Legendary",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Visage of Delight and Disaster",
+        "Rarity": "Legendary",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Vorpal Sword",
+        "Rarity": "Legendary",
+        "Type": "Weapon",
+        "Attunement Required": true,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Wave",
+        "Rarity": "Legendary",
+        "Type": "Weapon",
+        "Attunement Required": true,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Well of Many Worlds",
+        "Rarity": "Legendary",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Whelm",
+        "Rarity": "Legendary",
+        "Type": "Weapon",
+        "Attunement Required": true,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Windrazor",
+        "Rarity": "Legendary",
+        "Type": "Weapon",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Acidlight Arrow",
+        "Rarity": "Rare",
+        "Type": "Weapon",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Aegis of Radiance",
+        "Rarity": "Rare",
+        "Type": "Armor",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Aged Goodberry Wine",
+        "Rarity": "Rare",
+        "Type": "Potion",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Alchemical Compendium",
+        "Rarity": "Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Tasha's Cauldron of Everything"
+    },
+    {
+        "Name": "All-Purpose Tool (+2)",
+        "Rarity": "Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Tasha's Cauldron of Everything"
+    },
+    {
+        "Name": "Ammunition, +2",
+        "Rarity": "Rare",
+        "Type": "Weapon",
+        "Attunement Required": false,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Amulet of Health",
+        "Rarity": "Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Amulet of the Devout (+1)",
+        "Rarity": "Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Tasha's Cauldron of Everything"
+    },
+    {
+        "Name": "Arcane Grimoire (+1)",
+        "Rarity": "Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Tasha's Cauldron of Everything"
+    },
+    {
+        "Name": "Arcanist Gauntlets",
+        "Rarity": "Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Armor of Resistance",
+        "Rarity": "Rare",
+        "Type": "Armor",
+        "Attunement Required": true,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Armor of Vulnerability",
+        "Rarity": "Rare",
+        "Type": "Armor",
+        "Attunement Required": true,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Arrow-Catching Shield",
+        "Rarity": "Rare",
+        "Type": "Armor",
+        "Attunement Required": true,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Astral Caltrops",
+        "Rarity": "Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Astral Shard",
+        "Rarity": "Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Tasha's Cauldron of Everything"
+    },
+    {
+        "Name": "Astromancy Archive",
+        "Rarity": "Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Tasha's Cauldron of Everything"
+    },
+    {
+        "Name": "Atlas of Endless Horizons",
+        "Rarity": "Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Tasha's Cauldron of Everything"
+    },
+    {
+        "Name": "Aurum and Argentum",
+        "Rarity": "Rare",
+        "Type": "Weapon",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Avian Circlet",
+        "Rarity": "Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Bag of Beans",
+        "Rarity": "Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Band of Mirrored Essence",
+        "Rarity": "Rare",
+        "Type": "Ring",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Bandolier of the Elements",
+        "Rarity": "Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Barrier Tattoo Pristine",
+        "Rarity": "Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Tasha's Cauldron of Everything"
+    },
+    {
+        "Name": "Bartender's Armistice",
+        "Rarity": "Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Basco's Handy Bangle",
+        "Rarity": "Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Basilisk Dagger",
+        "Rarity": "Rare",
+        "Type": "Weapon",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Battlebrew Maul",
+        "Rarity": "Rare",
+        "Type": "Weapon",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Bead of Force",
+        "Rarity": "Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Bell Branch",
+        "Rarity": "Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Tasha's Cauldron of Everything"
+    },
+    {
+        "Name": "Belt of Dwarvenkind",
+        "Rarity": "Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Belt of Hill Giant Strength",
+        "Rarity": "Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Belt of the Raid Leader",
+        "Rarity": "Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Berserker Axe",
+        "Rarity": "Rare",
+        "Type": "Weapon",
+        "Attunement Required": true,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Blackthorn Spear of the Moonless Hunter",
+        "Rarity": "Rare",
+        "Type": "Weapon",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Blizzard Sphere",
+        "Rarity": "Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Bloodwell Vial (+2)",
+        "Rarity": "Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Tasha's Cauldron of Everything"
+    },
+    {
+        "Name": "Boomerang, +2",
+        "Rarity": "Rare",
+        "Type": "Weapon",
+        "Attunement Required": false,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Boots of Levitation",
+        "Rarity": "Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Boots of Speed",
+        "Rarity": "Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Bounder's Ball",
+        "Rarity": "Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Bow of Mind Thievery",
+        "Rarity": "Rare",
+        "Type": "Weapon",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Bow of the Eldritch Archer",
+        "Rarity": "Rare",
+        "Type": "Weapon",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Bow of the Twilight Valkyrie",
+        "Rarity": "Rare",
+        "Type": "Weapon",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Bowl of Commanding Water Elementals",
+        "Rarity": "Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Bracelet of the Shattered Aegis",
+        "Rarity": "Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Bracers of Defense",
+        "Rarity": "Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Brass Horn of Valhalla",
+        "Rarity": "Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Brazier of Commanding Fire Elementals",
+        "Rarity": "Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Breastplate of the Morning Light",
+        "Rarity": "Rare",
+        "Type": "Armor",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Bronze Griffon Figurine of Wondrous Power",
+        "Rarity": "Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Brooch of Many Sizes",
+        "Rarity": "Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Cape of the Mountebank",
+        "Rarity": "Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Captain's Pride",
+        "Rarity": "Rare",
+        "Type": "Armor",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Censer of Controlling Air Elementals",
+        "Rarity": "Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Chain Devil Gloves",
+        "Rarity": "Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Champion's Greatbow",
+        "Rarity": "Rare",
+        "Type": "Weapon",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Chime of Opening",
+        "Rarity": "Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Cinnabar Rapier",
+        "Rarity": "Rare",
+        "Type": "Weapon",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Cloak of Displacement",
+        "Rarity": "Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Cloak of the Bat",
+        "Rarity": "Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Cloak of the Boundless Spirit",
+        "Rarity": "Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Cloak of the Djinni",
+        "Rarity": "Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Clockwork Healerbee",
+        "Rarity": "Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Coldfire Anvil",
+        "Rarity": "Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Coldsnap",
+        "Rarity": "Rare",
+        "Type": "Weapon",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Comet Ballista",
+        "Rarity": "Rare",
+        "Type": "Weapon",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Conspirator's Coat",
+        "Rarity": "Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Contingency Band",
+        "Rarity": "Rare",
+        "Type": "Ring",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Cottage Chest",
+        "Rarity": "Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Couatl Herald's Fang",
+        "Rarity": "Rare",
+        "Type": "Weapon",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Couatl Herald's Lash",
+        "Rarity": "Rare",
+        "Type": "Weapon",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Couatl Herald's Radiance",
+        "Rarity": "Rare",
+        "Type": "Staff",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Couatl Herald's Reach",
+        "Rarity": "Rare",
+        "Type": "Weapon",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Couatl Herald's Scales",
+        "Rarity": "Rare",
+        "Type": "Armor",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Cube of Force",
+        "Rarity": "Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Cube of Teleportation",
+        "Rarity": "Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Daern's Instant Fortress",
+        "Rarity": "Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Dagger of Venom",
+        "Rarity": "Rare",
+        "Type": "Weapon",
+        "Attunement Required": false,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Dead Ringer",
+        "Rarity": "Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Death Knell",
+        "Rarity": "Rare",
+        "Type": "Weapon",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Devotee's Censer",
+        "Rarity": "Rare",
+        "Type": "Weapon",
+        "Attunement Required": true,
+        "Source": "Tasha's Cauldron of Everything"
+    },
+    {
+        "Name": "Dimensional Shackles",
+        "Rarity": "Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Direstone Dwarven Pick",
+        "Rarity": "Rare",
+        "Type": "Weapon",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Direstone Runic Wand",
+        "Rarity": "Rare",
+        "Type": "Wand",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Diviner's Dice",
+        "Rarity": "Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Djinn and Tonic (Tasty)",
+        "Rarity": "Rare",
+        "Type": "Potion",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Dragon Edge +1",
+        "Rarity": "Rare",
+        "Type": "Weapon",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Dragon Slayer",
+        "Rarity": "Rare",
+        "Type": "Weapon",
+        "Attunement Required": false,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Dragon Turtle Shield",
+        "Rarity": "Rare",
+        "Type": "Armor",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Dragonbreath Ammunition",
+        "Rarity": "Rare",
+        "Type": "Weapon",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Dragonkin Weapon (+1)",
+        "Rarity": "Rare",
+        "Type": "Weapon",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Dream Saber",
+        "Rarity": "Rare",
+        "Type": "Weapon",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Druidic Throwing Club",
+        "Rarity": "Rare",
+        "Type": "Weapon",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Duplicitous Manuscript",
+        "Rarity": "Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Tasha's Cauldron of Everything"
+    },
+    {
+        "Name": "Dwarven Boozehound's Backpack",
+        "Rarity": "Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Ebony Fly Figurine of Wondrous Power",
+        "Rarity": "Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Eldritch Scarf",
+        "Rarity": "Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Elemental Essence Shard",
+        "Rarity": "Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Tasha's Cauldron of Everything"
+    },
+    {
+        "Name": "Elixir of Health",
+        "Rarity": "Rare",
+        "Type": "Potion",
+        "Attunement Required": false,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Elven Chain",
+        "Rarity": "Rare",
+        "Type": "Armor",
+        "Attunement Required": false,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Enchantment Breaker",
+        "Rarity": "Rare",
+        "Type": "Ring",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Essence of Rage",
+        "Rarity": "Rare",
+        "Type": "Potion",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Eye of Dendallen",
+        "Rarity": "Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Far Realm Shard",
+        "Rarity": "Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Tasha's Cauldron of Everything"
+    },
+    {
+        "Name": "Feather Token",
+        "Rarity": "Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Ferryman's Take",
+        "Rarity": "Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Festerwood Claymore",
+        "Rarity": "Rare",
+        "Type": "Weapon",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Festerwood Vizard",
+        "Rarity": "Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Fife of Dragonsong",
+        "Rarity": "Rare",
+        "Type": "Weapon",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Fire Dervish Cloak",
+        "Rarity": "Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Fire Fire!",
+        "Rarity": "Rare",
+        "Type": "Weapon",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Fire Wand of the Unbroken Circle",
+        "Rarity": "Rare",
+        "Type": "Wand",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Flame Tongue",
+        "Rarity": "Rare",
+        "Type": "Weapon",
+        "Attunement Required": true,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Folding Boat",
+        "Rarity": "Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Force Gauntlet",
+        "Rarity": "Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Forgework Dragon Shield",
+        "Rarity": "Rare",
+        "Type": "Armor",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Frost Giant Fork",
+        "Rarity": "Rare",
+        "Type": "Weapon",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Fulminating Treatise",
+        "Rarity": "Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Tasha's Cauldron of Everything"
+    },
+    {
+        "Name": "Galvanic Steelsnare",
+        "Rarity": "Rare",
+        "Type": "Weapon",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Gauntlets of Eldritch Ferocity",
+        "Rarity": "Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Gem of Seeing",
+        "Rarity": "Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Gi of Shifting Seasons",
+        "Rarity": "Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Giant Slayer",
+        "Rarity": "Rare",
+        "Type": "Weapon",
+        "Attunement Required": false,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Gibberbox",
+        "Rarity": "Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Glaive of the Forest Guardian",
+        "Rarity": "Rare",
+        "Type": "Weapon",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Glamoured Studded Leather",
+        "Rarity": "Rare",
+        "Type": "Armor",
+        "Attunement Required": false,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Glove of the Aegis",
+        "Rarity": "Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Glove of the Grim Fandango",
+        "Rarity": "Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Gloves of Healing",
+        "Rarity": "Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Golden Lions Figurine of Wondrous Power",
+        "Rarity": "Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Greaves of Dendallen",
+        "Rarity": "Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Halberd of the Peacock",
+        "Rarity": "Rare",
+        "Type": "Weapon",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Handy Haversack",
+        "Rarity": "Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Heart Weaver’s Primer",
+        "Rarity": "Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Tasha's Cauldron of Everything"
+    },
+    {
+        "Name": "Heavenly Chalice",
+        "Rarity": "Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Helm of Heroes",
+        "Rarity": "Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Helm of Teleportation",
+        "Rarity": "Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Helmsman's Shelter",
+        "Rarity": "Rare",
+        "Type": "Armor",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Heward's Handy Haversack",
+        "Rarity": "Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Horn of Blasting",
+        "Rarity": "Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Horseshoes of Speed",
+        "Rarity": "Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Insatiable Tome",
+        "Rarity": "Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Instant Fortress",
+        "Rarity": "Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Instrument of the Bards (Canaith Mandolin)",
+        "Rarity": "Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Instrument of the Bards (Cli Lyre)",
+        "Rarity": "Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Ioun Stone of Awareness",
+        "Rarity": "Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Ioun Stone of Protection",
+        "Rarity": "Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Ioun Stone of Reserve",
+        "Rarity": "Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Ioun Stone of Sustenance",
+        "Rarity": "Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Iron Bands of Bilarro",
+        "Rarity": "Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Iron Bands of Binding",
+        "Rarity": "Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Ironleaf Impaler",
+        "Rarity": "Rare",
+        "Type": "Weapon",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Ironleaf Maul of Entanglement",
+        "Rarity": "Rare",
+        "Type": "Weapon",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Ivory Goats Figurine of Wondrous Power",
+        "Rarity": "Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Jotun's Jodhpurs",
+        "Rarity": "Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Killskull Longbow of Dread",
+        "Rarity": "Rare",
+        "Type": "Weapon",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Kinetic Bowstring",
+        "Rarity": "Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Knight's Standard of Valor",
+        "Rarity": "Rare",
+        "Type": "Weapon",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Knight's Standard of Vigor",
+        "Rarity": "Rare",
+        "Type": "Weapon",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Knight's Standard of Virtue",
+        "Rarity": "Rare",
+        "Type": "Weapon",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Leeching Quarterstaff",
+        "Rarity": "Rare",
+        "Type": "Weapon",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Libram of Souls and Flesh",
+        "Rarity": "Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Tasha's Cauldron of Everything"
+    },
+    {
+        "Name": "Life's Flower Restorative",
+        "Rarity": "Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Lightning Pylons",
+        "Rarity": "Rare",
+        "Type": "Rod",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Lyre of Building",
+        "Rarity": "Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Tasha's Cauldron of Everything"
+    },
+    {
+        "Name": "Mace of Disruption",
+        "Rarity": "Rare",
+        "Type": "Weapon",
+        "Attunement Required": true,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Mace of Smiting",
+        "Rarity": "Rare",
+        "Type": "Weapon",
+        "Attunement Required": false,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Mace of Terror",
+        "Rarity": "Rare",
+        "Type": "Weapon",
+        "Attunement Required": true,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Mageplate Cap",
+        "Rarity": "Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Magma War Pick",
+        "Rarity": "Rare",
+        "Type": "Weapon",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Mantle of Spell Resistance",
+        "Rarity": "Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Mantle of the Pack Lord",
+        "Rarity": "Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Master Machinist's Marvelous Mallet",
+        "Rarity": "Rare",
+        "Type": "Weapon",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Master’s Amulet",
+        "Rarity": "Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Mirrorlight Edge",
+        "Rarity": "Rare",
+        "Type": "Weapon",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Mistwalker Armor",
+        "Rarity": "Rare",
+        "Type": "Armor",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Monocle of Clarity",
+        "Rarity": "Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Moon Sickle (+2)",
+        "Rarity": "Rare",
+        "Type": "Weapon",
+        "Attunement Required": true,
+        "Source": "Tasha's Cauldron of Everything"
+    },
+    {
+        "Name": "Moonswaddled Armor",
+        "Rarity": "Rare",
+        "Type": "Armor",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Necklace of Fireballs",
+        "Rarity": "Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Necklace of Prayer Beads",
+        "Rarity": "Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Necrolace",
+        "Rarity": "Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Obsidian Steed Figurine of Wondrous Power",
+        "Rarity": "Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Oil of Etherealness",
+        "Rarity": "Rare",
+        "Type": "Potion",
+        "Attunement Required": false,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Onyx Dog Figurine of Wondrous Power",
+        "Rarity": "Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Outer Essence Shard",
+        "Rarity": "Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Tasha's Cauldron of Everything"
+    },
+    {
+        "Name": "Pearl of Wisdom Quiver",
+        "Rarity": "Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Peregrine Spear",
+        "Rarity": "Rare",
+        "Type": "Weapon",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Periapt of Proof against Poison",
+        "Rarity": "Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Periapt of Reflection",
+        "Rarity": "Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Phase Axe",
+        "Rarity": "Rare",
+        "Type": "Weapon",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Phoenix Arrow",
+        "Rarity": "Rare",
+        "Type": "Weapon",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Pick and Pocket",
+        "Rarity": "Rare",
+        "Type": "Weapon",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Plaguebane Mask",
+        "Rarity": "Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Planecaller’s Codex",
+        "Rarity": "Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Tasha's Cauldron of Everything"
+    },
+    {
+        "Name": "Portable Hole",
+        "Rarity": "Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Potion of Clairvoyance",
+        "Rarity": "Rare",
+        "Type": "Potion",
+        "Attunement Required": false,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Potion of Diminution",
+        "Rarity": "Rare",
+        "Type": "Potion",
+        "Attunement Required": false,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Potion of Dragon's Breath (4d6)",
+        "Rarity": "Rare",
+        "Type": "Potion",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Potion of Fire Giant Strength",
+        "Rarity": "Rare",
+        "Type": "Potion",
+        "Attunement Required": false,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Potion of Frost Giant Strength",
+        "Rarity": "Rare",
+        "Type": "Potion",
+        "Attunement Required": false,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Potion of Gaseous Form",
+        "Rarity": "Rare",
+        "Type": "Potion",
+        "Attunement Required": false,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Potion of Heroism",
+        "Rarity": "Rare",
+        "Type": "Potion",
+        "Attunement Required": false,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Potion of Invulnerability",
+        "Rarity": "Rare",
+        "Type": "Potion",
+        "Attunement Required": false,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Potion of Mind Reading",
+        "Rarity": "Rare",
+        "Type": "Potion",
+        "Attunement Required": false,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Potion of Spell Recovery",
+        "Rarity": "Rare",
+        "Type": "Potion",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Potion of Stone Giant Strength",
+        "Rarity": "Rare",
+        "Type": "Potion",
+        "Attunement Required": false,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Protective Verses",
+        "Rarity": "Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Tasha's Cauldron of Everything"
+    },
+    {
+        "Name": "Prototype Thunderberd",
+        "Rarity": "Rare",
+        "Type": "Weapon",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Purse Piglet",
+        "Rarity": "Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Quaal's Feather Token",
+        "Rarity": "Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Quake Hammer",
+        "Rarity": "Rare",
+        "Type": "Weapon",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Quick Change Ring",
+        "Rarity": "Rare",
+        "Type": "Ring",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Quickdraw",
+        "Rarity": "Rare",
+        "Type": "Weapon",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Radiant Defender",
+        "Rarity": "Rare",
+        "Type": "Weapon",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Reap and Sew",
+        "Rarity": "Rare",
+        "Type": "Weapon",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Retaliating Bloom Shield",
+        "Rarity": "Rare",
+        "Type": "Armor",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Reveler’s Concertina",
+        "Rarity": "Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Tasha's Cauldron of Everything"
+    },
+    {
+        "Name": "Rhythm-Maker’s Drum (+2)",
+        "Rarity": "Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Tasha's Cauldron of Everything"
+    },
+    {
+        "Name": "Rift Sheath",
+        "Rarity": "Rare",
+        "Type": "Weapon",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Ring of Anchoring",
+        "Rarity": "Rare",
+        "Type": "Ring",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Ring of Animal Influence",
+        "Rarity": "Rare",
+        "Type": "Ring",
+        "Attunement Required": false,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Ring of Eldritch Ire",
+        "Rarity": "Rare",
+        "Type": "Ring",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Ring of Evasion",
+        "Rarity": "Rare",
+        "Type": "Ring",
+        "Attunement Required": true,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Ring of Feather Falling",
+        "Rarity": "Rare",
+        "Type": "Ring",
+        "Attunement Required": true,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Ring of Fire",
+        "Rarity": "Rare",
+        "Type": "Ring",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Ring of Free Action",
+        "Rarity": "Rare",
+        "Type": "Ring",
+        "Attunement Required": true,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Ring of Protection",
+        "Rarity": "Rare",
+        "Type": "Ring",
+        "Attunement Required": true,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Ring of Resistance",
+        "Rarity": "Rare",
+        "Type": "Ring",
+        "Attunement Required": true,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Ring of Spell Storing",
+        "Rarity": "Rare",
+        "Type": "Ring",
+        "Attunement Required": true,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Ring of Stone",
+        "Rarity": "Rare",
+        "Type": "Ring",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Ring of the Ram",
+        "Rarity": "Rare",
+        "Type": "Ring",
+        "Attunement Required": true,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Ring of X-ray Vision",
+        "Rarity": "Rare",
+        "Type": "Ring",
+        "Attunement Required": true,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Robe of Eyes",
+        "Rarity": "Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Rocborne Rod",
+        "Rarity": "Rare",
+        "Type": "Rod",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Rod of Rulership",
+        "Rarity": "Rare",
+        "Type": "Rod",
+        "Attunement Required": true,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Rod of the Pact Keeper (+2)",
+        "Rarity": "Rare",
+        "Type": "Rod",
+        "Attunement Required": true,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Rope of Entanglement",
+        "Rarity": "Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Runic Ammunition",
+        "Rarity": "Rare",
+        "Type": "Weapon",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Salamander Flame Gauntlets",
+        "Rarity": "Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Sandstorm Dancer",
+        "Rarity": "Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Sash of Sorcerous Synergy",
+        "Rarity": "Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Scarlet Scourge",
+        "Rarity": "Rare",
+        "Type": "Weapon",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Scholar's Cap (+2)",
+        "Rarity": "Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Screaming Longbow",
+        "Rarity": "Rare",
+        "Type": "Weapon",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Scroll of Protection",
+        "Rarity": "Rare",
+        "Type": "Scroll",
+        "Attunement Required": false,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Serpentine Owl Figurine of Wondrous Power",
+        "Rarity": "Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Set of Secret Scribe Candles",
+        "Rarity": "Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Shadowfell Brand Tattoo",
+        "Rarity": "Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Tasha's Cauldron of Everything"
+    },
+    {
+        "Name": "Shadowfell Shard",
+        "Rarity": "Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Tasha's Cauldron of Everything"
+    },
+    {
+        "Name": "Shadowshawl",
+        "Rarity": "Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Shadowsmoke Dragon Pipe",
+        "Rarity": "Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Shared Burden",
+        "Rarity": "Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Sharkrazor Mantle",
+        "Rarity": "Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Sheer Cold",
+        "Rarity": "Rare",
+        "Type": "Weapon",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Shield of Missile Attraction",
+        "Rarity": "Rare",
+        "Type": "Armor",
+        "Attunement Required": true,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Shield, +2",
+        "Rarity": "Rare",
+        "Type": "Armor",
+        "Attunement Required": false,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Signet Rings of Blindness, Deafness, and Silence",
+        "Rarity": "Rare",
+        "Type": "Ring",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Silver Horn of Valhalla",
+        "Rarity": "Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Skyglider Shield",
+        "Rarity": "Rare",
+        "Type": "Armor",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Sling of the Tiny Giant",
+        "Rarity": "Rare",
+        "Type": "Weapon",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Snugglebeast (3d6)",
+        "Rarity": "Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "4th Level Spell Scroll",
+        "Rarity": "Rare",
+        "Type": "Scroll",
+        "Attunement Required": false,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "5th Level Spell Scroll",
+        "Rarity": "Rare",
+        "Type": "Scroll",
+        "Attunement Required": false,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Spellsword",
+        "Rarity": "Rare",
+        "Type": "Weapon",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Spellwriter's Brace",
+        "Rarity": "Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Spellwrought Tattoo (4th Level Spell)",
+        "Rarity": "Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Tasha's Cauldron of Everything"
+    },
+    {
+        "Name": "Spellwrought Tattoo (5th Level Spell)",
+        "Rarity": "Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Tasha's Cauldron of Everything"
+    },
+    {
+        "Name": "Spiderbite Daggers",
+        "Rarity": "Rare",
+        "Type": "Weapon",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Spirit Pike",
+        "Rarity": "Rare",
+        "Type": "Weapon",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Splintershot",
+        "Rarity": "Rare",
+        "Type": "Weapon",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Staff of Charming",
+        "Rarity": "Rare",
+        "Type": "Staff",
+        "Attunement Required": true,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Staff of Healing",
+        "Rarity": "Rare",
+        "Type": "Staff",
+        "Attunement Required": true,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Staff of Swarming Insects",
+        "Rarity": "Rare",
+        "Type": "Staff",
+        "Attunement Required": true,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Staff of the Magpie",
+        "Rarity": "Rare",
+        "Type": "Staff",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Staff of the Mirage",
+        "Rarity": "Rare",
+        "Type": "Staff",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Staff of the Mustang",
+        "Rarity": "Rare",
+        "Type": "Staff",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Staff of the Reverent Warrior",
+        "Rarity": "Rare",
+        "Type": "Staff",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Staff of the Woodlands",
+        "Rarity": "Rare",
+        "Type": "Staff",
+        "Attunement Required": true,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Staff of Withering",
+        "Rarity": "Rare",
+        "Type": "Staff",
+        "Attunement Required": true,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Stalagmight Geode",
+        "Rarity": "Rare",
+        "Type": "Weapon",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Starbreaker",
+        "Rarity": "Rare",
+        "Type": "Weapon",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Starmetal Ring",
+        "Rarity": "Rare",
+        "Type": "Ring",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Starmetal Shard Spear",
+        "Rarity": "Rare",
+        "Type": "Weapon",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Starmetal Striker",
+        "Rarity": "Rare",
+        "Type": "Weapon",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Stone of Controlling Earth Elementals",
+        "Rarity": "Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Storm Sickle",
+        "Rarity": "Rare",
+        "Type": "Weapon",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Stormstruck Staff",
+        "Rarity": "Rare",
+        "Type": "Weapon",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Sun Blade",
+        "Rarity": "Rare",
+        "Type": "Weapon",
+        "Attunement Required": true,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Sword of Life Stealing",
+        "Rarity": "Rare",
+        "Type": "Weapon",
+        "Attunement Required": true,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Sword of Resonance",
+        "Rarity": "Rare",
+        "Type": "Weapon",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Sword of Wounding",
+        "Rarity": "Rare",
+        "Type": "Weapon",
+        "Attunement Required": true,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Tentacle Rod",
+        "Rarity": "Rare",
+        "Type": "Rod",
+        "Attunement Required": true,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Thalamus Thread",
+        "Rarity": "Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Thunderous Flail",
+        "Rarity": "Rare",
+        "Type": "Weapon",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Timeshifter's Mantle",
+        "Rarity": "Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Tome of the Dragon's Hoard",
+        "Rarity": "Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Torrent Taiaha",
+        "Rarity": "Rare",
+        "Type": "Staff",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Trident of the Hydra",
+        "Rarity": "Rare",
+        "Type": "Weapon",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Vancian Helm",
+        "Rarity": "Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Vicious Weapon",
+        "Rarity": "Rare",
+        "Type": "Weapon",
+        "Attunement Required": false,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Vigilus",
+        "Rarity": "Rare",
+        "Type": "Weapon",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Volcanic Boots",
+        "Rarity": "Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Volt Gauntlets",
+        "Rarity": "Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Voltedge",
+        "Rarity": "Rare",
+        "Type": "Weapon",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Wand of Binding",
+        "Rarity": "Rare",
+        "Type": "Wand",
+        "Attunement Required": true,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Wand of Enemy Detection",
+        "Rarity": "Rare",
+        "Type": "Wand",
+        "Attunement Required": true,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Wand of Fear",
+        "Rarity": "Rare",
+        "Type": "Wand",
+        "Attunement Required": true,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Wand of Fireballs",
+        "Rarity": "Rare",
+        "Type": "Wand",
+        "Attunement Required": true,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Wand of Lightning Bolts",
+        "Rarity": "Rare",
+        "Type": "Wand",
+        "Attunement Required": true,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Wand of Paralysis",
+        "Rarity": "Rare",
+        "Type": "Wand",
+        "Attunement Required": true,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Wand of the War Mage (+2)",
+        "Rarity": "Rare",
+        "Type": "Wand",
+        "Attunement Required": true,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Wand of Whispers",
+        "Rarity": "Rare",
+        "Type": "Wand",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Wand of Wonder",
+        "Rarity": "Rare",
+        "Type": "Wand",
+        "Attunement Required": true,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Wardancer's Spear",
+        "Rarity": "Rare",
+        "Type": "Weapon",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Warmind Wand",
+        "Rarity": "Rare",
+        "Type": "Wand",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Wavebender's Leiomano",
+        "Rarity": "Rare",
+        "Type": "Weapon",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Weapon of Mooring",
+        "Rarity": "Rare",
+        "Type": "Weapon",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Weapon, +2",
+        "Rarity": "Rare",
+        "Type": "Weapon",
+        "Attunement Required": false,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Windswept Wyvernplate",
+        "Rarity": "Rare",
+        "Type": "Armor",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Wind-Up Merchant",
+        "Rarity": "Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Wings of Flying",
+        "Rarity": "Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Wisplight Lantern",
+        "Rarity": "Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Wooden Chain of the Unbroken Circle",
+        "Rarity": "Rare",
+        "Type": "Armor",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Wyrmling Wristlet",
+        "Rarity": "Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Wyvernwing",
+        "Rarity": "Rare",
+        "Type": "Weapon",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Zafu of the Wandering Mind",
+        "Rarity": "Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Abjurer's Gilder",
+        "Rarity": "Uncommon",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Adamantine Armor",
+        "Rarity": "Uncommon",
+        "Type": "Armor",
+        "Attunement Required": false,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Alchemist's Potion Belt",
+        "Rarity": "Uncommon",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Alchemy Jug",
+        "Rarity": "Uncommon",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "All-Purpose Tool (+1)",
+        "Rarity": "Uncommon",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Tasha's Cauldron of Everything"
+    },
+    {
+        "Name": "Ambitious Medic's Box",
+        "Rarity": "Uncommon",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Ammunition, +1",
+        "Rarity": "Uncommon",
+        "Type": "Weapon",
+        "Attunement Required": false,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Amulet of Equilibrium",
+        "Rarity": "Uncommon",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Amulet of Proof against Detection and Location",
+        "Rarity": "Uncommon",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Axe Beak Tomahawk",
+        "Rarity": "Uncommon",
+        "Type": "Weapon",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Badge of the Savant",
+        "Rarity": "Uncommon",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Bag of Holding",
+        "Rarity": "Uncommon",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Bag of Sundrops",
+        "Rarity": "Uncommon",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Bag of Tricks",
+        "Rarity": "Uncommon",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Barge Helm",
+        "Rarity": "Uncommon",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Barricade Shield",
+        "Rarity": "Uncommon",
+        "Type": "Armor",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Barrier Tattoo",
+        "Rarity": "Uncommon",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Tasha's Cauldron of Everything"
+    },
+    {
+        "Name": "Baton of Many Sizes",
+        "Rarity": "Uncommon",
+        "Type": "Rod",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Battle Tax",
+        "Rarity": "Uncommon",
+        "Type": "Weapon",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Battlechef Buckler",
+        "Rarity": "Uncommon",
+        "Type": "Armor",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Battlement Bow",
+        "Rarity": "Uncommon",
+        "Type": "Weapon",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Bird of a Feather",
+        "Rarity": "Uncommon",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Bloodwell Vial (+1)",
+        "Rarity": "Uncommon",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Tasha's Cauldron of Everything"
+    },
+    {
+        "Name": "Boomerang, +1",
+        "Rarity": "Uncommon",
+        "Type": "Weapon",
+        "Attunement Required": false,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Boots of Elvenkind",
+        "Rarity": "Uncommon",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Boots of Striding and Springing",
+        "Rarity": "Uncommon",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Boots of the Cloud Jumper",
+        "Rarity": "Uncommon",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Boots of the Winterlands",
+        "Rarity": "Uncommon",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Bounty Hunter Enforcer",
+        "Rarity": "Uncommon",
+        "Type": "Weapon",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Bracers of Archery",
+        "Rarity": "Uncommon",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Braided Quarterstaff",
+        "Rarity": "Uncommon",
+        "Type": "Weapon",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Brooch of Shielding",
+        "Rarity": "Uncommon",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Broom of Flying",
+        "Rarity": "Uncommon",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Bug Smashers",
+        "Rarity": "Uncommon",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Cactus Mace",
+        "Rarity": "Uncommon",
+        "Type": "Weapon",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Camper's Respite",
+        "Rarity": "Uncommon",
+        "Type": "Rod",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Candle of Anti-light",
+        "Rarity": "Uncommon",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Candleflame Bow",
+        "Rarity": "Uncommon",
+        "Type": "Weapon",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Cap of Water Breathing",
+        "Rarity": "Uncommon",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Charlatan's Wardrobe",
+        "Rarity": "Uncommon",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Chromacloth",
+        "Rarity": "Uncommon",
+        "Type": "Weapon",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Circlet of Blasting",
+        "Rarity": "Uncommon",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Cloak of Elvenkind",
+        "Rarity": "Uncommon",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Cloak of Protection",
+        "Rarity": "Uncommon",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Cloak of the Manta Ray",
+        "Rarity": "Uncommon",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Clockwork Faefly",
+        "Rarity": "Uncommon",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Clockwork Inkbeetle",
+        "Rarity": "Uncommon",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Coil Crook",
+        "Rarity": "Uncommon",
+        "Type": "Staff",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Coiling Grasp Tattoo",
+        "Rarity": "Uncommon",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Tasha's Cauldron of Everything"
+    },
+    {
+        "Name": "Coralshield Golem",
+        "Rarity": "Uncommon",
+        "Type": "Armor",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Couatl Herald's Guard",
+        "Rarity": "Uncommon",
+        "Type": "Armor",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Couatl Herald's Mantle",
+        "Rarity": "Uncommon",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Dagger of the Ogre Mage",
+        "Rarity": "Uncommon",
+        "Type": "Weapon",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Decanter of Endless Water",
+        "Rarity": "Uncommon",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Deck of Illusions",
+        "Rarity": "Uncommon",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Devil's Detail Eyepatch",
+        "Rarity": "Uncommon",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Discordant Thunderstave",
+        "Rarity": "Uncommon",
+        "Type": "Weapon",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Doomsday Cookie",
+        "Rarity": "Uncommon",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Dragon Edge",
+        "Rarity": "Uncommon",
+        "Type": "Weapon",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Dragon's Call",
+        "Rarity": "Uncommon",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Driftglobe",
+        "Rarity": "Uncommon",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Dust of Disappearance",
+        "Rarity": "Uncommon",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Dust of Dryness",
+        "Rarity": "Uncommon",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Dust of Sneezing and Choking",
+        "Rarity": "Uncommon",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Eaglereign",
+        "Rarity": "Uncommon",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Ear Cuff of the Vampire Bat",
+        "Rarity": "Uncommon",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Efficient Quiver",
+        "Rarity": "Uncommon",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Eldritch Claw Tattoo",
+        "Rarity": "Uncommon",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Tasha's Cauldron of Everything"
+    },
+    {
+        "Name": "Elemental Gem",
+        "Rarity": "Uncommon",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Everice Box",
+        "Rarity": "Uncommon",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Eversmoking Bottle",
+        "Rarity": "Uncommon",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Eye of the Bookwurm",
+        "Rarity": "Uncommon",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Eyes of Charming",
+        "Rarity": "Uncommon",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Eyes of Minute Seeing",
+        "Rarity": "Uncommon",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Eyes of the Eagle",
+        "Rarity": "Uncommon",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Festerwood Buckler",
+        "Rarity": "Uncommon",
+        "Type": "Armor",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Festerwood Logger",
+        "Rarity": "Uncommon",
+        "Type": "Weapon",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Feywild Shard",
+        "Rarity": "Uncommon",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Tasha's Cauldron of Everything"
+    },
+    {
+        "Name": "Fireweaver Gloves",
+        "Rarity": "Uncommon",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Fortune's Fivepence",
+        "Rarity": "Uncommon",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Frefil's Jolly Oozebean Sugarbombs",
+        "Rarity": "Uncommon",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Frefil's Tiny Tasty Tongue Twisty Sugarbombs",
+        "Rarity": "Uncommon",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Frostbitten Buckler",
+        "Rarity": "Uncommon",
+        "Type": "Armor",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Frozen Dagger",
+        "Rarity": "Uncommon",
+        "Type": "Weapon",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Funeral Marchers",
+        "Rarity": "Uncommon",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Galepierce Weapons",
+        "Rarity": "Uncommon",
+        "Type": "Weapon",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Gauntlets of Ogre Power",
+        "Rarity": "Uncommon",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Gelatinous Whip",
+        "Rarity": "Uncommon",
+        "Type": "Weapon",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Gem of Brightness",
+        "Rarity": "Uncommon",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Gloves of Missile Snaring",
+        "Rarity": "Uncommon",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Gloves of Swimming and Climbing",
+        "Rarity": "Uncommon",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Gloves of Thievery",
+        "Rarity": "Uncommon",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Goggles of Night",
+        "Rarity": "Uncommon",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Great Owl's Shroud",
+        "Rarity": "Uncommon",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Griffon Component Pack",
+        "Rarity": "Uncommon",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Guardian Emblem",
+        "Rarity": "Uncommon",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Tasha's Cauldron of Everything"
+    },
+    {
+        "Name": "Hand of the Master",
+        "Rarity": "Uncommon",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Hasty Sugarbombs",
+        "Rarity": "Uncommon",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Hat of Disguise",
+        "Rarity": "Uncommon",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Hat Trick",
+        "Rarity": "Uncommon",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Headband of Intellect",
+        "Rarity": "Uncommon",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Healing Arrow",
+        "Rarity": "Uncommon",
+        "Type": "Weapon",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Helm of Comprehending Languages",
+        "Rarity": "Uncommon",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Helm of Telepathy",
+        "Rarity": "Uncommon",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Hexaxe",
+        "Rarity": "Uncommon",
+        "Type": "Weapon",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Ice Sickle",
+        "Rarity": "Uncommon",
+        "Type": "Weapon",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Immovable Rod",
+        "Rarity": "Uncommon",
+        "Type": "Rod",
+        "Attunement Required": false,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Inferno Rope",
+        "Rarity": "Uncommon",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Instrument of the Bards (Doss Lute)",
+        "Rarity": "Uncommon",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Instrument of the Bards (Fochlucan Bandore)",
+        "Rarity": "Uncommon",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Instrument of the Bards (Mac-Fuirmiudh Cittern)",
+        "Rarity": "Uncommon",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Ironleaf Oaken Shield",
+        "Rarity": "Uncommon",
+        "Type": "Armor",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Ironshod Trotters",
+        "Rarity": "Uncommon",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Javelin of Lightning",
+        "Rarity": "Uncommon",
+        "Type": "Weapon",
+        "Attunement Required": false,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Keoghtom's Ointment",
+        "Rarity": "Uncommon",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Kindle Egg Sugarbombs",
+        "Rarity": "Uncommon",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Knocking Boots",
+        "Rarity": "Uncommon",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Kraken's Whip",
+        "Rarity": "Uncommon",
+        "Type": "Weapon",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Lantern of Revealing",
+        "Rarity": "Uncommon",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Liar's Lyre",
+        "Rarity": "Uncommon",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Locksmith's Bane",
+        "Rarity": "Uncommon",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Mammoth Boots",
+        "Rarity": "Uncommon",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Mariner's Armor",
+        "Rarity": "Uncommon",
+        "Type": "Armor",
+        "Attunement Required": false,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Mask of the Pact Bearer",
+        "Rarity": "Uncommon",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Medallion of Thoughts",
+        "Rarity": "Uncommon",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Mimicloak",
+        "Rarity": "Uncommon",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Mithral Armor",
+        "Rarity": "Uncommon",
+        "Type": "Armor",
+        "Attunement Required": false,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Mockingblade",
+        "Rarity": "Uncommon",
+        "Type": "Weapon",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Moon Sickle (+1)",
+        "Rarity": "Uncommon",
+        "Type": "Weapon",
+        "Attunement Required": true,
+        "Source": "Tasha's Cauldron of Everything"
+    },
+    {
+        "Name": "Mourningsteel Ghost Candle",
+        "Rarity": "Uncommon",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Nature’s Mantle",
+        "Rarity": "Uncommon",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Tasha's Cauldron of Everything"
+    },
+    {
+        "Name": "Necklace of Adaptation",
+        "Rarity": "Uncommon",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Night Owl's Half-Moon Spectacles",
+        "Rarity": "Uncommon",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Oil of Slipperiness",
+        "Rarity": "Uncommon",
+        "Type": "Potion",
+        "Attunement Required": false,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Otyugh Cloak",
+        "Rarity": "Uncommon",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Overshield",
+        "Rarity": "Uncommon",
+        "Type": "Armor",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Pack of Levibubble Sugarbombs",
+        "Rarity": "Uncommon",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Pearl of Power",
+        "Rarity": "Uncommon",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Pendant of Thieves' Sight",
+        "Rarity": "Uncommon",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Peppermince Sugarbomb",
+        "Rarity": "Uncommon",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Periapt of Health",
+        "Rarity": "Uncommon",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Periapt of Wound Closure",
+        "Rarity": "Uncommon",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Petal Dancer Ward",
+        "Rarity": "Uncommon",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Philter of Love",
+        "Rarity": "Uncommon",
+        "Type": "Potion",
+        "Attunement Required": false,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Pipes of Haunting",
+        "Rarity": "Uncommon",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Pipes of the Sewers",
+        "Rarity": "Uncommon",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Potion of Animal Friendship",
+        "Rarity": "Uncommon",
+        "Type": "Potion",
+        "Attunement Required": false,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Potion of Dragon's Breath (3d6)",
+        "Rarity": "Uncommon",
+        "Type": "Potion",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Potion of Fire Breath",
+        "Rarity": "Uncommon",
+        "Type": "Potion",
+        "Attunement Required": false,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Potion of Growth",
+        "Rarity": "Uncommon",
+        "Type": "Potion",
+        "Attunement Required": false,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Potion of Hill Giant Strength",
+        "Rarity": "Uncommon",
+        "Type": "Potion",
+        "Attunement Required": false,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Potion of Poison",
+        "Rarity": "Uncommon",
+        "Type": "Potion",
+        "Attunement Required": false,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Potion of Resistance",
+        "Rarity": "Uncommon",
+        "Type": "Potion",
+        "Attunement Required": false,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Potion of Water Breathing",
+        "Rarity": "Uncommon",
+        "Type": "Potion",
+        "Attunement Required": false,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Prismatic Javelin",
+        "Rarity": "Uncommon",
+        "Type": "Weapon",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Quiver of Ehlonna",
+        "Rarity": "Uncommon",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Relentless Bulwark",
+        "Rarity": "Uncommon",
+        "Type": "Armor",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Restorative Ointment",
+        "Rarity": "Uncommon",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Retaliating Shield of Ink",
+        "Rarity": "Uncommon",
+        "Type": "Armor",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Rhythm-Maker’s Drum (+1)",
+        "Rarity": "Uncommon",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Tasha's Cauldron of Everything"
+    },
+    {
+        "Name": "Ring of Eight Eyes",
+        "Rarity": "Uncommon",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Ring of Healer's Heroism",
+        "Rarity": "Uncommon",
+        "Type": "Ring",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Ring of Jumping",
+        "Rarity": "Uncommon",
+        "Type": "Ring",
+        "Attunement Required": true,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Ring of Mind Shielding",
+        "Rarity": "Uncommon",
+        "Type": "Ring",
+        "Attunement Required": true,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Ring of Seething",
+        "Rarity": "Uncommon",
+        "Type": "Ring",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Ring of Swimming",
+        "Rarity": "Uncommon",
+        "Type": "Ring",
+        "Attunement Required": false,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Ring of the Sandskimmer",
+        "Rarity": "Uncommon",
+        "Type": "Ring",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Ring of Volleys",
+        "Rarity": "Uncommon",
+        "Type": "Ring",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Ring of Warmth",
+        "Rarity": "Uncommon",
+        "Type": "Ring",
+        "Attunement Required": true,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Ring of Water Walking",
+        "Rarity": "Uncommon",
+        "Type": "Ring",
+        "Attunement Required": false,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Ring of Wind",
+        "Rarity": "Uncommon",
+        "Type": "Ring",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Robe of Useful Items",
+        "Rarity": "Uncommon",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Rocborne Robe",
+        "Rarity": "Uncommon",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Rod of the Pact Keeper (+1)",
+        "Rarity": "Uncommon",
+        "Type": "Rod",
+        "Attunement Required": true,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Rope of Climbing",
+        "Rarity": "Uncommon",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Saddle of the Cavalier",
+        "Rarity": "Uncommon",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Scholar's Cap (+1)",
+        "Rarity": "Uncommon",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Scroll of Mapping",
+        "Rarity": "Uncommon",
+        "Type": "Scroll",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Sea Serpent Hairpin",
+        "Rarity": "Uncommon",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Seafarer's Jacket",
+        "Rarity": "Uncommon",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Seer's Starlight Cloak",
+        "Rarity": "Uncommon",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Sending Stones",
+        "Rarity": "Uncommon",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Sentinel Shield",
+        "Rarity": "Uncommon",
+        "Type": "Armor",
+        "Attunement Required": false,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Serpent Dart",
+        "Rarity": "Uncommon",
+        "Type": "Weapon",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Servitude Choker",
+        "Rarity": "Uncommon",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Set of Numat's Trick Tubes",
+        "Rarity": "Uncommon",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Shadow Ink",
+        "Rarity": "Uncommon",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Shield, +1",
+        "Rarity": "Uncommon",
+        "Type": "Armor",
+        "Attunement Required": false,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Shielded Turtle Sugarbombs",
+        "Rarity": "Uncommon",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Silken Socks of Slickening",
+        "Rarity": "Uncommon",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Silver Eagle Weapons",
+        "Rarity": "Uncommon",
+        "Type": "Weapon",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Silver Lycan Chime",
+        "Rarity": "Uncommon",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Silver Raven Figurine of Wondrous Power",
+        "Rarity": "Uncommon",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Sirensong Silencer",
+        "Rarity": "Uncommon",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Slippers of Spider Climbing",
+        "Rarity": "Uncommon",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Snugglebeast (2d6)",
+        "Rarity": "Uncommon",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Socks of the Well-Rested",
+        "Rarity": "Uncommon",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "2nd Level Spell Scroll",
+        "Rarity": "Uncommon",
+        "Type": "Scroll",
+        "Attunement Required": false,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "3rd Level Spell Scroll",
+        "Rarity": "Uncommon",
+        "Type": "Scroll",
+        "Attunement Required": false,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Spellwoven Robes",
+        "Rarity": "Uncommon",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Spellwrought Tattoo (2nd Level Spell)",
+        "Rarity": "Uncommon",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Tasha's Cauldron of Everything"
+    },
+    {
+        "Name": "Spellwrought Tattoo (3rd Level Spell)",
+        "Rarity": "Uncommon",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Tasha's Cauldron of Everything"
+    },
+    {
+        "Name": "Squasher",
+        "Rarity": "Uncommon",
+        "Type": "Weapon",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Staff of the Adder",
+        "Rarity": "Uncommon",
+        "Type": "Staff",
+        "Attunement Required": true,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Staff of the Python",
+        "Rarity": "Uncommon",
+        "Type": "Staff",
+        "Attunement Required": true,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Stone of Good Luck (Luckstone)",
+        "Rarity": "Uncommon",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Stuffy Familiar",
+        "Rarity": "Uncommon",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Sundersludge Net",
+        "Rarity": "Uncommon",
+        "Type": "Weapon",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Sword of Vengeance",
+        "Rarity": "Uncommon",
+        "Type": "Weapon",
+        "Attunement Required": true,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Talyard the Great's Wand of Power",
+        "Rarity": "Uncommon",
+        "Type": "Wand",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Telescoping Bladelance",
+        "Rarity": "Uncommon",
+        "Type": "Weapon",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Tether Tearer",
+        "Rarity": "Uncommon",
+        "Type": "Weapon",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Tethervine Quiver",
+        "Rarity": "Uncommon",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Thwackstaff",
+        "Rarity": "Uncommon",
+        "Type": "Weapon",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Toadstone",
+        "Rarity": "Uncommon",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Tome of Dreams",
+        "Rarity": "Uncommon",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Torchbearer's Reach",
+        "Rarity": "Uncommon",
+        "Type": "Weapon",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Trident of Fish Command",
+        "Rarity": "Uncommon",
+        "Type": "Weapon",
+        "Attunement Required": true,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Trident of the Dryad",
+        "Rarity": "Uncommon",
+        "Type": "Weapon",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Tub of Churning and Fermentation",
+        "Rarity": "Uncommon",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Venombane Armor",
+        "Rarity": "Uncommon",
+        "Type": "Armor",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Void Arrow",
+        "Rarity": "Uncommon",
+        "Type": "Weapon",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Wand of Magic Detection",
+        "Rarity": "Uncommon",
+        "Type": "Wand",
+        "Attunement Required": false,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Wand of Magic Missiles",
+        "Rarity": "Uncommon",
+        "Type": "Wand",
+        "Attunement Required": false,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Wand of Secrets",
+        "Rarity": "Uncommon",
+        "Type": "Wand",
+        "Attunement Required": false,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Wand of the War Mage (+1)",
+        "Rarity": "Uncommon",
+        "Type": "Wand",
+        "Attunement Required": true,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Wand of Web",
+        "Rarity": "Uncommon",
+        "Type": "Wand",
+        "Attunement Required": true,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Weapon of Spite",
+        "Rarity": "Uncommon",
+        "Type": "Weapon",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Weapon of Warning",
+        "Rarity": "Uncommon",
+        "Type": "Weapon",
+        "Attunement Required": true,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Weaving Wasp Needles",
+        "Rarity": "Uncommon",
+        "Type": "Weapon",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Wind Fan",
+        "Rarity": "Uncommon",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Winged Boots",
+        "Rarity": "Uncommon",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Absorbing Tattoo",
+        "Rarity": "Very Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Tasha's Cauldron of Everything"
+    },
+    {
+        "Name": "All-Purpose Tool (+3)",
+        "Rarity": "Very Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Tasha's Cauldron of Everything"
+    },
+    {
+        "Name": "Ammunition, +3",
+        "Rarity": "Very Rare",
+        "Type": "Weapon",
+        "Attunement Required": false,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Amulet of the Devout (+2)",
+        "Rarity": "Very Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Tasha's Cauldron of Everything"
+    },
+    {
+        "Name": "Amulet of the Planes",
+        "Rarity": "Very Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Animated Shield",
+        "Rarity": "Very Rare",
+        "Type": "Armor",
+        "Attunement Required": true,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Arcane Grimoire (+2)",
+        "Rarity": "Very Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Tasha's Cauldron of Everything"
+    },
+    {
+        "Name": "Arcane Mirror",
+        "Rarity": "Very Rare",
+        "Type": "Armor",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Arcanist's Bowstaff",
+        "Rarity": "Very Rare",
+        "Type": "Weapon",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Architect's Disdain",
+        "Rarity": "Very Rare",
+        "Type": "Weapon",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Archivist's Key",
+        "Rarity": "Very Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Arrow of Slaying",
+        "Rarity": "Very Rare",
+        "Type": "Weapon",
+        "Attunement Required": false,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Astral Bracelet",
+        "Rarity": "Very Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Bag of Devouring",
+        "Rarity": "Very Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Barrier Tattoo Perfect",
+        "Rarity": "Very Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Tasha's Cauldron of Everything"
+    },
+    {
+        "Name": "Battlechef's Splendid Saucepan",
+        "Rarity": "Very Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Belt of Fire Giant Strength",
+        "Rarity": "Very Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Belt of Frost Giant Strength",
+        "Rarity": "Very Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Belt of Stone Giant Strength",
+        "Rarity": "Very Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Blood Pact Pendants",
+        "Rarity": "Very Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Bloodmage Dagger",
+        "Rarity": "Very Rare",
+        "Type": "Weapon",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Bloodwell Vial (+3)",
+        "Rarity": "Very Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Tasha's Cauldron of Everything"
+    },
+    {
+        "Name": "Bolt",
+        "Rarity": "Very Rare",
+        "Type": "Weapon",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Boomerang, +3",
+        "Rarity": "Very Rare",
+        "Type": "Weapon",
+        "Attunement Required": false,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Boots of Dendallen",
+        "Rarity": "Very Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Boreal Pendant",
+        "Rarity": "Very Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Bottled Abyss",
+        "Rarity": "Very Rare",
+        "Type": "Potion",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Bow of the Spelldrinker",
+        "Rarity": "Very Rare",
+        "Type": "Weapon",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Brambleheart Quiver",
+        "Rarity": "Very Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Bronze Horn of Valhalla",
+        "Rarity": "Very Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Candle of Invocation",
+        "Rarity": "Very Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Carpet of Flying",
+        "Rarity": "Very Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Carrion Shroud",
+        "Rarity": "Very Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Cauldron of Rebirth",
+        "Rarity": "Very Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Tasha's Cauldron of Everything"
+    },
+    {
+        "Name": "Celestial Circlet",
+        "Rarity": "Very Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Ceratopper",
+        "Rarity": "Very Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Chronomancer's Eyepiece",
+        "Rarity": "Very Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Circlet of the Huntsman's Third Eye",
+        "Rarity": "Very Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Cloak of Arachnida",
+        "Rarity": "Very Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Cratering Quarterstaff",
+        "Rarity": "Very Rare",
+        "Type": "Weapon",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Crosier of Divine Power",
+        "Rarity": "Very Rare",
+        "Type": "Staff",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Crown of Deep Winter",
+        "Rarity": "Very Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Crystal Ball",
+        "Rarity": "Very Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Crystalline Chronicle",
+        "Rarity": "Very Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Tasha's Cauldron of Everything"
+    },
+    {
+        "Name": "Dancing Sword",
+        "Rarity": "Very Rare",
+        "Type": "Weapon",
+        "Attunement Required": true,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Dark Fathom Armor",
+        "Rarity": "Very Rare",
+        "Type": "Armor",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Demon Armor",
+        "Rarity": "Very Rare",
+        "Type": "Armor",
+        "Attunement Required": true,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Dragon Edge +2",
+        "Rarity": "Very Rare",
+        "Type": "Weapon",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Dragon Scale Mail",
+        "Rarity": "Very Rare",
+        "Type": "Armor",
+        "Attunement Required": true,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Dragonkin Weapon (+2)",
+        "Rarity": "Very Rare",
+        "Type": "Weapon",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Dream Mantle",
+        "Rarity": "Very Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Dwarven Plate",
+        "Rarity": "Very Rare",
+        "Type": "Armor",
+        "Attunement Required": false,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Dwarven Thrower",
+        "Rarity": "Very Rare",
+        "Type": "Weapon",
+        "Attunement Required": true,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Edible Book of Recipes",
+        "Rarity": "Very Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Efreeti Bottle",
+        "Rarity": "Very Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Ether Spear",
+        "Rarity": "Very Rare",
+        "Type": "Weapon",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Executioner's Mercy",
+        "Rarity": "Very Rare",
+        "Type": "Weapon",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Fable's End",
+        "Rarity": "Very Rare",
+        "Type": "Weapon",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Festerwood Fungal Stave",
+        "Rarity": "Very Rare",
+        "Type": "Staff",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Festerwood Masher",
+        "Rarity": "Very Rare",
+        "Type": "Weapon",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Flesh of Dendallen",
+        "Rarity": "Very Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Fourarm Bracers",
+        "Rarity": "Very Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Fragment of Elder Starlight",
+        "Rarity": "Very Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Frost Brand",
+        "Rarity": "Very Rare",
+        "Type": "Weapon",
+        "Attunement Required": true,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Frostburn Blade",
+        "Rarity": "Very Rare",
+        "Type": "Weapon",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Gateway Ring",
+        "Rarity": "Very Rare",
+        "Type": "Ring",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Ghost Step Tattoo",
+        "Rarity": "Very Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Tasha's Cauldron of Everything"
+    },
+    {
+        "Name": "Give and Take",
+        "Rarity": "Very Rare",
+        "Type": "Weapon",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Grass Whistle Blade",
+        "Rarity": "Very Rare",
+        "Type": "Weapon",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Grip of Dendallen",
+        "Rarity": "Very Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Harp of Valor",
+        "Rarity": "Very Rare",
+        "Type": "Weapon",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Hcor'uk the Colossal's Portable Handheld Trebuchet of Walloping",
+        "Rarity": "Very Rare",
+        "Type": "Weapon",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Hellfire Pitchfork",
+        "Rarity": "Very Rare",
+        "Type": "Weapon",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Helm of Brilliance",
+        "Rarity": "Very Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Helm of the Platinum Dragon",
+        "Rarity": "Very Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Horn of the Wild Hunt",
+        "Rarity": "Very Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Horseshoes of a Zephyr",
+        "Rarity": "Very Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Hour and Minute",
+        "Rarity": "Very Rare",
+        "Type": "Weapon",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "H'rethi Cloak of Shielding",
+        "Rarity": "Very Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Hurricane Lance",
+        "Rarity": "Very Rare",
+        "Type": "Weapon",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Infernal Aegis",
+        "Rarity": "Very Rare",
+        "Type": "Armor",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Instrument of the Bards (Anstruth Harp)",
+        "Rarity": "Very Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Ioun Stone of Absorption",
+        "Rarity": "Very Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Ioun Stone of Agility",
+        "Rarity": "Very Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Ioun Stone of Fortitude",
+        "Rarity": "Very Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Ioun Stone of Insight",
+        "Rarity": "Very Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Ioun Stone of Intellect",
+        "Rarity": "Very Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Ioun Stone of Leadership",
+        "Rarity": "Very Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Ioun Stone of Strength",
+        "Rarity": "Very Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Ironleaf Plate",
+        "Rarity": "Very Rare",
+        "Type": "Armor",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Ki Blade",
+        "Rarity": "Very Rare",
+        "Type": "Weapon",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Lance of the Hungering Dead",
+        "Rarity": "Very Rare",
+        "Type": "Weapon",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Lifewell Tattoo",
+        "Rarity": "Very Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Tasha's Cauldron of Everything"
+    },
+    {
+        "Name": "Manual of Bodily Health",
+        "Rarity": "Very Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Manual of Gainful Exercise",
+        "Rarity": "Very Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Manual of Golems",
+        "Rarity": "Very Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Manual of Quickness of Action",
+        "Rarity": "Very Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Marble Elephant Figurine of Wondrous Power",
+        "Rarity": "Very Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Marvelous Pigments",
+        "Rarity": "Very Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Mask of Dendallen",
+        "Rarity": "Very Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Mirror of Life Trapping",
+        "Rarity": "Very Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Mirrorlight Piercer",
+        "Rarity": "Very Rare",
+        "Type": "Weapon",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Monsterbane Lasher",
+        "Rarity": "Very Rare",
+        "Type": "Weapon",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Moon Sickle (+3)",
+        "Rarity": "Very Rare",
+        "Type": "Weapon",
+        "Attunement Required": true,
+        "Source": "Tasha's Cauldron of Everything"
+    },
+    {
+        "Name": "Mourningsteel Demi-Gauntlets",
+        "Rarity": "Very Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Nightstalker's Kanabo",
+        "Rarity": "Very Rare",
+        "Type": "Weapon",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Nine Lives Stealer",
+        "Rarity": "Very Rare",
+        "Type": "Weapon",
+        "Attunement Required": true,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Nolzur's Marvelous Pigments",
+        "Rarity": "Very Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Null Chalk",
+        "Rarity": "Very Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Oathbow",
+        "Rarity": "Very Rare",
+        "Type": "Weapon",
+        "Attunement Required": true,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Oil of Sharpness",
+        "Rarity": "Very Rare",
+        "Type": "Potion",
+        "Attunement Required": false,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Omenbringer's Mantle",
+        "Rarity": "Very Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Ouroboros Rapier",
+        "Rarity": "Very Rare",
+        "Type": "Weapon",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Pendant of the Tempered Fury",
+        "Rarity": "Very Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Phasing Bow",
+        "Rarity": "Very Rare",
+        "Type": "Weapon",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Planar Rapier",
+        "Rarity": "Very Rare",
+        "Type": "Weapon",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Potion of Cloud Giant Strength",
+        "Rarity": "Very Rare",
+        "Type": "Potion",
+        "Attunement Required": false,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Potion of Dragon's Breath (5d6)",
+        "Rarity": "Very Rare",
+        "Type": "Potion",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Potion of Flying",
+        "Rarity": "Very Rare",
+        "Type": "Potion",
+        "Attunement Required": false,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Potion of Invisibility",
+        "Rarity": "Very Rare",
+        "Type": "Potion",
+        "Attunement Required": false,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Potion of Longevity",
+        "Rarity": "Very Rare",
+        "Type": "Potion",
+        "Attunement Required": false,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Potion of Speed",
+        "Rarity": "Very Rare",
+        "Type": "Potion",
+        "Attunement Required": false,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Potion of Vitality",
+        "Rarity": "Very Rare",
+        "Type": "Potion",
+        "Attunement Required": false,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Purging Dagger",
+        "Rarity": "Very Rare",
+        "Type": "Weapon",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Quagmire Maul",
+        "Rarity": "Very Rare",
+        "Type": "Weapon",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Rhythm-Maker’s Drum (+3)",
+        "Rarity": "Very Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Tasha's Cauldron of Everything"
+    },
+    {
+        "Name": "Ring of Ice",
+        "Rarity": "Very Rare",
+        "Type": "Ring",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Ring of Lunar Might",
+        "Rarity": "Very Rare",
+        "Type": "Ring",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Ring of Regeneration",
+        "Rarity": "Very Rare",
+        "Type": "Ring",
+        "Attunement Required": true,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Ring of Shooting Stars",
+        "Rarity": "Very Rare",
+        "Type": "Ring",
+        "Attunement Required": true,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Ring of Telekinesis",
+        "Rarity": "Very Rare",
+        "Type": "Ring",
+        "Attunement Required": true,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Ring of the Split Mind",
+        "Rarity": "Very Rare",
+        "Type": "Ring",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Robe of Scintillating Colors",
+        "Rarity": "Very Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Robe of Stars",
+        "Rarity": "Very Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Rocborne Hand Ballista",
+        "Rarity": "Very Rare",
+        "Type": "Weapon",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Rod of Absorption",
+        "Rarity": "Very Rare",
+        "Type": "Rod",
+        "Attunement Required": true,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Rod of Alertness",
+        "Rarity": "Very Rare",
+        "Type": "Rod",
+        "Attunement Required": true,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Rod of Security",
+        "Rarity": "Very Rare",
+        "Type": "Rod",
+        "Attunement Required": false,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Rod of the Pact Keeper (+3)",
+        "Rarity": "Very Rare",
+        "Type": "Rod",
+        "Attunement Required": true,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Scholar's Cap (+3)",
+        "Rarity": "Very Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Scimitar of Speed",
+        "Rarity": "Very Rare",
+        "Type": "Weapon",
+        "Attunement Required": true,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Scorching Cleaver",
+        "Rarity": "Very Rare",
+        "Type": "Weapon",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Scroll of Mapping with Locator",
+        "Rarity": "Very Rare",
+        "Type": "Scroll",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Septum Ring of the Great Minotaur",
+        "Rarity": "Very Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Shadow Drinker",
+        "Rarity": "Very Rare",
+        "Type": "Weapon",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Shadow Ward",
+        "Rarity": "Very Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Shaedenstaff",
+        "Rarity": "Very Rare",
+        "Type": "Staff",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Shield of Yggdrasil",
+        "Rarity": "Very Rare",
+        "Type": "Armor",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Shield, +3",
+        "Rarity": "Very Rare",
+        "Type": "Armor",
+        "Attunement Required": false,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Signet Rings of the Fey Court",
+        "Rarity": "Very Rare",
+        "Type": "Ring",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Snuff",
+        "Rarity": "Very Rare",
+        "Type": "Weapon",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Snugglebeast (4d6)",
+        "Rarity": "Very Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "6th Level Spell Scroll",
+        "Rarity": "Very Rare",
+        "Type": "Scroll",
+        "Attunement Required": false,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "7th Level Spell Scroll",
+        "Rarity": "Very Rare",
+        "Type": "Scroll",
+        "Attunement Required": false,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "8th Level Spell Scroll",
+        "Rarity": "Very Rare",
+        "Type": "Scroll",
+        "Attunement Required": false,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Spellguard Shield",
+        "Rarity": "Very Rare",
+        "Type": "Armor",
+        "Attunement Required": true,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Splitter",
+        "Rarity": "Very Rare",
+        "Type": "Weapon",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Staff of Favorable Winds",
+        "Rarity": "Very Rare",
+        "Type": "Staff",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Staff of Fire",
+        "Rarity": "Very Rare",
+        "Type": "Staff",
+        "Attunement Required": true,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Staff of Frost",
+        "Rarity": "Very Rare",
+        "Type": "Staff",
+        "Attunement Required": true,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Staff of Power",
+        "Rarity": "Very Rare",
+        "Type": "Staff",
+        "Attunement Required": true,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Staff of Striking",
+        "Rarity": "Very Rare",
+        "Type": "Staff",
+        "Attunement Required": true,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Staff of the Four Seasons",
+        "Rarity": "Very Rare",
+        "Type": "Staff",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Staff of Thunder and Lightning",
+        "Rarity": "Very Rare",
+        "Type": "Staff",
+        "Attunement Required": true,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Stalaga Spear",
+        "Rarity": "Very Rare",
+        "Type": "Weapon",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Starmetal Sliver",
+        "Rarity": "Very Rare",
+        "Type": "Weapon",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Switch",
+        "Rarity": "Very Rare",
+        "Type": "Rod",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Sword of Sharpness",
+        "Rarity": "Very Rare",
+        "Type": "Weapon",
+        "Attunement Required": true,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Tempest Griffon Feather Cape",
+        "Rarity": "Very Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "The Rose Basket",
+        "Rarity": "Very Rare",
+        "Type": "Weapon",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Timber",
+        "Rarity": "Very Rare",
+        "Type": "Weapon",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Timepiercer",
+        "Rarity": "Very Rare",
+        "Type": "Weapon",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Tome of Advanced Fighting Styles",
+        "Rarity": "Very Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Tome of Clear Thought",
+        "Rarity": "Very Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Tome of Leadership and Influence",
+        "Rarity": "Very Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Tome of Understanding",
+        "Rarity": "Very Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": false,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Wand of Polymorph",
+        "Rarity": "Very Rare",
+        "Type": "Wand",
+        "Attunement Required": true,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "Wand of the War Mage (+3)",
+        "Rarity": "Very Rare",
+        "Type": "Wand",
+        "Attunement Required": true,
+        "Source": "Dungeon Master's Guide"
+    },
+    {
+        "Name": "War Standard of Battlecries",
+        "Rarity": "Very Rare",
+        "Type": "Wondrous Item",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Wildman's Spinning Cleaver",
+        "Rarity": "Very Rare",
+        "Type": "Weapon",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    },
+    {
+        "Name": "Winter's Embrace",
+        "Rarity": "Very Rare",
+        "Type": "Armor",
+        "Attunement Required": true,
+        "Source": "Griffon's Saddlebag"
+    }
+]

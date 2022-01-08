@@ -1,0 +1,22 @@
+@use "~bootstrap/scss/bootstrap";
+
+.table > tbody > tr {
+    .rarity {
+        font-weight: 700;
+    }
+    .rarity--artifact {
+        color: bootstrap.$red;
+    }
+    .rarity--legendary {
+        color: bootstrap.$yellow;
+    }
+    .rarity--veryrare {
+        color: bootstrap.$purple;
+    }
+    .rarity--rare {
+        color: bootstrap.$blue;
+    }
+    .rarity--uncommon {
+        color: bootstrap.$green;
+    }
+}

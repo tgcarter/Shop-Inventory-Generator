@@ -1,0 +1,44 @@
+<!DOCTYPE html >
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>D&D Magic Items</title>
+    </head>
+    <body>
+        <div class="col-lg-8 mx-auto p-3">
+            <header class="p-3 mb-4 border-bottom">
+                <h1 class="text-center fs-4 mb-0">D&D Magic Items</h1>
+            </header>
+            <h1 class="text-center fs-4">All Items</h1>
+            <div class="d-flex justify-content-end">
+                <div class="form-floating mb-4">
+                    <select class="form-select" id="filter" aria-label="Filter">
+                        <option selected value="name-desc">Name Descending</option>
+                        <option value="name-asc">Name Ascending</option>
+                        <option value="rarity-desc">Rarity Descending</option>
+                        <option value="rarity-asc">Rarity Ascending</option>
+                        <option value="attunement_required-desc">Attunement Required Descending</option>
+                        <option value="attunement_required-asc">Attunement Required Ascending</option>
+                        <option value="source-desc">Source Descending</option>
+                        <option value="source-asc">Source Ascending</option>
+                    </select>
+                    <label for="filter">Sort</label>
+                </div>
+            </div>
+            <table class="table table-striped table-hover" id="allItemsTable">
+                <thead>
+                    <tr>
+                        <th scope="col">Name</th>
+                        <th scope="col">Rarity</th>
+                        <th scope="col">Type</th>
+                        <th scope="col">Attunement Required</th>
+                        <th scope="col">Source</th>
+                    </tr>
+                </thead>
+                <tbody></tbody>
+            </table>
+        </div>
+    </body>
+</html>
